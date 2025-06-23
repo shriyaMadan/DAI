@@ -7,7 +7,7 @@ This project investigates whether companies that adopted remote or hybrid work m
 ## Project Contributors
 1. Jayasheelan Ravichandran
 2. Shriya Madan
-3. Nikhil
+3. Nikhil Amala Jerrin James Edward Suresh
 
 ## Setup Guide
 
