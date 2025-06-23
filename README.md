@@ -9,3 +9,9 @@ This project investigates whether companies that adopted remote or hybrid work m
 2. Shriya Madan
 3. Nikhil
 
+## Setup Guide
+
+### 1. Clone the Repository
+
+```bash
+
