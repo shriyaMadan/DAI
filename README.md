@@ -16,8 +16,11 @@ This project investigates whether companies that adopted remote or hybrid work m
 ```bash
 https://github.com/shriyaMadan/DAI.git
 cd DAI
+```
 
 ### 2. Run the Project
 To run a Jupyter notebook:
 
+```bash
 jupyter notebook
+```
